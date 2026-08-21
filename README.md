@@ -66,7 +66,7 @@ Created an interactive **Sales Performance Dashboard** containing:
 * Sales by Category
 * Sales by Region
 * Sales by Product
-* ![Sales Performance Dashboard](sales_dashboard.png)
+* ![Sales Performance Dashboard](sales_dashboard.png.png)
 
 ## 📈 Key Business Insights
 
